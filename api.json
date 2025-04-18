@@ -1,3 +1,5 @@
-[
-"api" "https://www.x-noobs-apis.42web.io"
-]
+{
+  "apis": {
+    "api": "https://www.x-noobs-apis.42web.io"
+  }
+}
